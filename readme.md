@@ -1,4 +1,5 @@
 # local to global
+## GIT LOL
 PYTHON
 ```python
 printf
