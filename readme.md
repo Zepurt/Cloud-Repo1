@@ -1,13 +1,17 @@
 # local to global
+PYTHON
 ```python
-printf("Henlo!");
+printf
 ```
+JS
 ```js
-console.log("Henlo!");
+console.log
 ```
+CPP
 ```cpp
-cout<<"Henlo!";
+cout
 ```
+JAVA
 ```java
-system.out.println("Henlo!");
+system.out.println
 ```
